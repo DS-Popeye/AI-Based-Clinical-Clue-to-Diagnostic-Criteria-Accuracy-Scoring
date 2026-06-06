@@ -1,0 +1,9 @@
+{
+  "experiment_id": 4,
+  "seed": 44,
+  "dataset": "synthetic_only",
+  "task": "criteria_accuracy_scoring",
+  "threshold": 0.38,
+  "use_real_patient_data": false,
+  "clinically_validated": false
+}
